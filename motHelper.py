@@ -6,7 +6,7 @@ import os
 import re
 import math
 import time
-from pprint import pprint
+#from pprint import pprint
 from fontTools.ttLib import TTFont
 from fontTools.ttLib.tables._g_l_y_f import Glyph
 ver = 0.1
